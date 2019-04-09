@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="626091b7-d5cc-4423-9705-b91677a73413" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/cipher/encrypt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cipher/encrypt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/cipher/decryptTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/cipher/decryptTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -50,11 +50,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/cipher/encrypt.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="28" lean-forward="true" selection-end-line="28" />
+            <state relative-caret-position="375">
+              <caret line="25" column="22" lean-forward="true" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -80,7 +80,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/cipher/decryptTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="225">
@@ -133,11 +133,11 @@
         <option value="$PROJECT_DIR$/src/test/java/cipher/CaesarCipherTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/cipher/App.java" />
         <option value="$PROJECT_DIR$/src/test/java/cipher/AppTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/cipher/decryptTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/cipher/encryptTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/cipher/app.java" />
         <option value="$PROJECT_DIR$/src/main/java/cipher/decrypt.java" />
         <option value="$PROJECT_DIR$/src/main/java/cipher/encrypt.java" />
+        <option value="$PROJECT_DIR$/src/test/java/cipher/decryptTest.java" />
       </list>
     </option>
   </component>
@@ -421,16 +421,6 @@
     <entry file="file://$PROJECT_DIR$/ReadMe.md">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/cipher/decryptTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/cipher/app.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
@@ -441,6 +431,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cipher/encrypt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="22" lean-forward="true" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/cipher/decrypt.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -448,10 +445,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cipher/encrypt.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/cipher/decryptTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" lean-forward="true" selection-end-line="28" />
+        <state relative-caret-position="225">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
