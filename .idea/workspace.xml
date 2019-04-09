@@ -54,10 +54,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/cipher/encrypt.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="420">
-              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
-              <folding>
-                <element signature="e#0#821#0" expanded="true" />
-              </folding>
+              <caret line="28" lean-forward="true" selection-end-line="28" />
             </state>
           </provider>
         </entry>
@@ -454,10 +451,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/cipher/encrypt.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
-          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
-          <folding>
-            <element signature="e#0#821#0" expanded="true" />
-          </folding>
+          <caret line="28" lean-forward="true" selection-end-line="28" />
         </state>
       </provider>
     </entry>
