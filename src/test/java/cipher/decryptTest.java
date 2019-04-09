@@ -6,10 +6,10 @@ import static org.junit.Assert.assertEquals;
 
 public class decryptTest {
     @Test
-//    public void decrypt_testWordDecryption_String() {
-//        decrypt testDecrypt = new decrypt();
-//        String expectedOutput = "isaac";
-//        assertEquals(expectedOutput, testDecrypt.decrypt("nxffh", 5));
-//    }
+    public void decrypt_testWordDecryption_String() {
+        decrypt testDecrypt = new decrypt();
+        String expectedOutput = "isaac";
+        assertEquals(expectedOutput, testDecrypt.decrypt("nxffh", 5));
+    }
 
 }
