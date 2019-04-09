@@ -6,11 +6,11 @@ import static org.junit.Assert.assertEquals;
 
 public class encryptTest {
     @Test
-    public void encrypt_testWordEncryption_String() {
-        encrypt testEncrypt = new encrypt();
-        String expectedOutput = "bcd";
-        assertEquals(expectedOutput, testEncrypt.encrypt("abc", 1));
-    }
+//    public void encrypt_testWordEncryption_String() {
+//        encrypt testEncrypt = new encrypt();
+//        String expectedOutput = "bcd";
+//        assertEquals(expectedOutput, testEncrypt.encrypt("abc", 1));
+//    }
     @Test
     public void encrypt_testSentenceEncryption_String() {
         encrypt testEncrypt = new encrypt();
