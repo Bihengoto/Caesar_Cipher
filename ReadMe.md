@@ -13,7 +13,7 @@ Isaac Bihengoto
 
 1.Make sure you have all the Requirements of running Java apps installed such as JUnit, intellij, SDK, JDK.
 
-2.Clone the project into your machine from https://github.com/peter-wachira/CeaserCipher.git
+2.Clone the project into your machine from https://github.com/bihengoto/CeaserCipher.git
 
 3.Run javac ceasercipher.java to compile and java ceasercipher to run the program
 
